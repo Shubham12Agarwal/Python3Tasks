@@ -1,4 +1,3 @@
-The Code that will take input from user and search on google and store top 10 url in the list:-
 #!/usr/bin/python3
 from googlesearch import search
 import time
