@@ -1,4 +1,3 @@
-The code which will tell you that in which year you will turn 95 years old:-
 #!/usr/bin/python3
 from datetime import datetime
 name=input("Enter your name:")
